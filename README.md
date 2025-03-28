@@ -1,6 +1,6 @@
 # Bank System
-console-based Bank Client Management System in C++ written with clean code principles. 
-NOT : This project is an improved version of BankSystem1, with an extension for transactions.
+#### console-based Bank Client Management System in C++ written with clean code principles. 
+##### NOT : This project is an improved version of BankSystem1, with an extension for transactions.
 
 ## Features
   - View a list of all clients and their details.
